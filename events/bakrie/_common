@@ -1,0 +1,7 @@
+server_date,,,STRING 
+ip,,,STRING
+log_format,,,INT
+client_date,,,STRING
+project_id,,,STRING
+version,,,STRING
+uuid,,,STRING

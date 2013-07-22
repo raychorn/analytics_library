@@ -1,0 +1,10 @@
+The following directory/folders are a definition of the Analytics Data Parameters.
+
+Each Directory should have the following Structure:
+
+Folder with Project name: (events/bakrie)
+File with Table name: (events/bakrie/logevents)
+File with Common columns: (events/bakrie/_common)
+
+Each File uses the following format:
+column_name, column_alias, UDAF(), TYPE

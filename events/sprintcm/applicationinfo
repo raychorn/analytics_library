@@ -1,0 +1,11 @@
+15,wwanmanagementstatus,MIN,INT
+23,wimaxmanagementstatus,MIN,INT
+28,vpnmanagementstatus,MIN,INT
+13,wifimanagementstatus,MIN,INT
+34,wifimanagementused,MIN,STRING
+50,ccstestmode,MIN,INT
+52,serverdomain,MIN,STRING
+53,osversion,MIN,STRING
+54,usertype,MIN,INT
+70,lastupdate,MIN,STRING
+18,bmaccelerationlevel,MIN,INT

@@ -1,0 +1,5 @@
+DeviceType,,,
+ByteMobile,,,
+1,esn,,STRING
+17,bmaccelerationonoff,,INT
+18,bmaccelerationlevel,,INT

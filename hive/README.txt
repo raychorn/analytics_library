@@ -1,0 +1,1 @@
+Hive Specific HQL Scripts go Here.

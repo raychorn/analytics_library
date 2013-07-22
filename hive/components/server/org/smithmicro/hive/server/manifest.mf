@@ -1,0 +1,2 @@
+Main-Class: org.smithmicro.hive.server.HiveJdbcClient
+Class-Path: lib/hadoop-core-0.20.3-SNAPSHOT.jar lib/hive-exec-0.6.0.jar lib/hive-jdbc-0.6.0.jar lib/hive-metastore-0.6.0.jar lib/hive-service-0.6.0.jar lib/libfb303.jar lib/log4j-1.2.15.jar lib/commons-logging-1.0.4.jar lib/commons-logging-api-1.0.4.jar
